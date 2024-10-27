@@ -1,0 +1,5 @@
+C:\Users\jcand\source\repos\Project15\Debug\Project15.vcxproj.AssemblyReference.cache
+C:\Users\jcand\source\repos\Project15\Debug\Project15.Form1.resources
+C:\Users\jcand\source\repos\Project15\Debug\Project15.vcxproj.GenerateResource.cache
+C:\Users\jcand\source\repos\Project15\Debug\Project15.exe
+C:\Users\jcand\source\repos\Project15\Debug\Project15.Pasos.resources

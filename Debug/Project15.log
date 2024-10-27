@@ -1,0 +1,51 @@
+﻿  Form1.cpp
+C:\Users\jcand\source\repos\Project15\Pasos.h(186,1): warning C4267: 'inicializando': conversión de 'size_t' a 'wchar_t'; posible pérdida de datos
+C:\Users\jcand\source\repos\Project15\Pasos.h(187,1): warning C4267: 'inicializando': conversión de 'size_t' a 'wchar_t'; posible pérdida de datos
+C:\Users\jcand\source\repos\Project15\Pasos.h(188,1): warning C4267: 'inicializando': conversión de 'size_t' a 'wchar_t'; posible pérdida de datos
+C:\Users\jcand\source\repos\Project15\Pasos.h(201,1): warning C4267: 'inicializando': conversión de 'size_t' a 'wchar_t'; posible pérdida de datos
+C:\Users\jcand\source\repos\Project15\Pasos.h(215,1): warning C4267: 'inicializando': conversión de 'size_t' a 'char'; posible pérdida de datos
+C:\Users\jcand\source\repos\Project15\Pasos.h(217,93): warning C4244: 'argumento': conversión de 'size_t' a 'float'; posible pérdida de datos
+C:\Users\jcand\source\repos\Project15\Pasos.h(221,1): warning C4267: 'inicializando': conversión de 'size_t' a 'char'; posible pérdida de datos
+C:\Users\jcand\source\repos\Project15\Pasos.h(223,94): warning C4244: 'argumento': conversión de 'size_t' a 'float'; posible pérdida de datos
+C:\Users\jcand\source\repos\Project15\Pasos.h(237,103): warning C4244: 'argumento': conversión de 'size_t' a 'float'; posible pérdida de datos
+C:\Users\jcand\source\repos\Project15\Pasos.h(237,84): warning C4244: 'argumento': conversión de 'size_t' a 'float'; posible pérdida de datos
+C:\Users\jcand\source\repos\Project15\Pasos.h(241,46): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\jcand\source\repos\Project15\Pasos.h(254,28): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\jcand\source\repos\Project15\FullScreenForm.h(56,126): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jcand\source\repos\Project15\FullScreenForm.h(56,118): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jcand\source\repos\Project15\Form1.h(34,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\jcand\source\repos\Project15\Form1.h(817,27): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\jcand\source\repos\Project15\Form1.h(825,31): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\jcand\source\repos\Project15\Form1.h(891,90): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jcand\source\repos\Project15\Form1.h(898,90): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jcand\source\repos\Project15\Form1.h(916,112): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jcand\source\repos\Project15\Form1.h(916,87): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jcand\source\repos\Project15\Form1.h(932,90): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jcand\source\repos\Project15\Form1.h(939,90): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jcand\source\repos\Project15\Form1.h(947,112): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jcand\source\repos\Project15\Form1.h(947,87): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jcand\source\repos\Project15\Form1.h(1042,72): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jcand\source\repos\Project15\Form1.h(1048,81): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jcand\source\repos\Project15\Form1.h(1048,69): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jcand\source\repos\Project15\Form1.h(1056,34): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\jcand\source\repos\Project15\Form1.h(1058,81): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jcand\source\repos\Project15\Form1.h(1063,75): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jcand\source\repos\Project15\Form1.h(1076,90): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jcand\source\repos\Project15\Form1.h(1083,90): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jcand\source\repos\Project15\Form1.h(1091,112): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jcand\source\repos\Project15\Form1.h(1091,87): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jcand\source\repos\Project15\Form1.h(1223,27): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\jcand\source\repos\Project15\Form1.h(1224,31): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\jcand\source\repos\Project15\Form1.h(1269,34): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\jcand\source\repos\Project15\Form1.h(1329,34): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\jcand\source\repos\Project15\Form1.h(1357,34): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\jcand\source\repos\Project15\Form1.h(1424,40): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\jcand\source\repos\Project15\Form1.h(1425,38): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\jcand\source\repos\Project15\Form1.h(1446,40): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\jcand\source\repos\Project15\Form1.h(1448,29): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\jcand\source\repos\Project15\Form1.h(1527,79): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jcand\source\repos\Project15\Form1.h(1534,79): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jcand\source\repos\Project15\Form1.h(1542,101): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jcand\source\repos\Project15\Form1.h(1542,76): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Form1.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Project15.vcxproj -> C:\Users\jcand\source\repos\Project15\Debug\Project15.exe
